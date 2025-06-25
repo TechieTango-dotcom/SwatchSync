@@ -1,0 +1,129 @@
+{
+    "fineTip":
+    [
+        {
+            "name": "Cherry Red",
+            "id"  : "Gel 001",
+            "hex" : "D32F2F"
+        },
+        {
+            "name": "Sunset Orange",
+            "id"  : "Gel 002",
+            "hex" : "FB8C00"
+        },
+        {
+            "name": "Lemon Zest",
+            "id"  : "Gel 003",
+            "hex" : "FFF176"
+        },
+        {
+            "name": "Spring Green",
+            "id"  : "Gel 004",
+            "hex" : "66BB6A"
+        },
+        {
+            "name": "Sky Blue",
+            "id"  : "Gel 005",
+            "hex" : "4FC3F7"
+        },
+        {
+            "name": "Lavender Violet",
+            "id"  : "Gel 006",
+            "hex" : "9575CD"
+        },
+        {
+            "name": "Deep Indigo",
+            "id"  : "Gel 007",
+            "hex" : "303F9F"
+        },
+        {
+            "name": "Bubblegum Pink",
+            "id"  : "Gel 008",
+            "hex" : "F06292"
+        },
+        {
+            "name": "Soft White",
+            "id"  : "Gel 009",
+            "hex" : "F5F5F5"
+        },
+        {
+            "name": "Silver Gray",
+            "id"  : "Gel 010",
+            "hex" : "BDBDBD"
+        },
+        {
+            "name": "Chestnut",
+            "id"  : "Gel 011",
+            "hex" : "8D6E63"
+        },
+        {
+            "name": "Jet Black",
+            "id"  : "Gel 012",
+            "hex" : "212121"
+        }
+    ],
+
+    "paintMarker":
+    [
+        {
+            "name": "Crimson Red",
+            "id"  : "Paint 001",
+            "hex" : "B71C1C"
+        },
+        {
+            "name": "Tangerine",
+            "id"  : "Paint 002",
+            "hex" : "F57C00"
+        },
+        {
+            "name": "Sunflower",
+            "id"  : "Paint 003",
+            "hex" : "FFEB3B"
+        },
+        {
+            "name": "Forest Green",
+            "id"  : "Paint 004",
+            "hex" : "388E3C"
+        },
+        {
+            "name": "Ocean Teal",
+            "id"  : "Paint 005",
+            "hex" : "039BE5"
+        },
+        {
+            "name": "Royal Purple",
+            "id"  : "Paint 006",
+            "hex" : "7E57C2"
+        },
+        {
+            "name": "Midnight Indigo",
+            "id"  : "Paint 007",
+            "hex" : "1A237E"
+        },
+        {
+            "name": "Rose Blush",
+            "id"  : "Paint 008",
+            "hex" : "EC407A"
+        },
+        {
+            "name": "Paper White",
+            "id"  : "Gel 009",
+            "hex" : "FAFAFA"
+        },
+        {
+            "name": "Graphite Gray",
+            "id"  : "Paint 010",
+            "hex" : "9E9E9E"
+        },
+        {
+            "name": "Cocoa",
+            "id"  : "Paint 011",
+            "hex" : "6D4C41"
+        },
+        {
+            "name": "True Black",
+            "id"  : "Paint 012",
+            "hex" : "000000"
+        }
+    ]
+}
