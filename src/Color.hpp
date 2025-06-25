@@ -17,6 +17,7 @@
 
 #pragma once
 #include <string>
+#include <cstdint> 
 #include <tuple>    //  for getRGB() and getLAB() return types
 
 class Color
@@ -27,8 +28,8 @@ private:
     std::string id;
 
     uint8_t red;        // RGB components
-    uint8_t blue;
     uint8_t green;
+    uint8_t blue;
 
     double labL;    // CIELAB components
     double labA;
@@ -43,4 +44,9 @@ public:
     std::string getHexCode() const;
     std::string getId() const;
     std::tuple<uint8_t, uint8_t, uint8_t> getRGB() const;
-}
+    std::tuple<double, double, double> getLab() const;
+
+    // Setters
+    void setRGB(uint8_t red, uint8_t green, uint8_t blue);
+    void setLab(double labL, double labA, double labB);
+};
